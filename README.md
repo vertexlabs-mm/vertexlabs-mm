@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Engineer** with a strong focus on **Python backend development**. I love building **scalable, robust, and high-performance web applications**.
 
-![Header Animation](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
