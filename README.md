@@ -2,8 +2,6 @@
 
 I'm a **Full-Stack Engineer** with a strong focus on **Python backend development**. I love building **scalable, robust, and high-performance web applications**.
 
-![Coding Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -31,7 +29,6 @@ I'm a **Full-Stack Engineer** with a strong focus on **Python backend developmen
 ### 🌐 [FastAPI E-Commerce Backend](https://github.com/vertexlabs-mm/fastapi-ecommerce)
 - **Description**: A high-performance e-commerce backend with user authentication, product catalog, and payment integration.
 - **Tech Stack**: Python, FastAPI, PostgreSQL, Docker
-- ![Project GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ### 📊 [Flask Analytics Dashboard](https://github.com/vertexlabs-mm/flask-dashboard)
 - **Description**: Interactive analytics dashboard for business metrics with data visualization.
