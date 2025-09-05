@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=58A6FF&background=1F2328&center=true&vCenter=true&width=500&lines=Keep+building.+Keep+learning.+Keep+sharing." alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Full-Stack Engineer
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=vertexlabs-mm&color=brightgreen&style=flat-square)
