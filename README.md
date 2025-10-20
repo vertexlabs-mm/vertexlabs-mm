@@ -14,16 +14,6 @@ I'm a passionate **Full-Stack Engineer** with over **8 years of experience**, sp
 
 ---
 
-## 💡 About Me
-
-- 🎯 8+ years working across startups and enterprises  
-- 🐍 Fluent in **Python**, especially backend & API development  
-- 🌎 Comfortable across the stack: DevOps, frontend, testing, deployment  
-- ⚡ Automation and scalable architectures enthusiast  
-- 💬 Ask me about backend architecture, distributed systems, or cloud deployments!  
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
